@@ -1,4 +1,4 @@
-app1:start
+app1:stop
 app2:start
 app3:start
 
