@@ -1,0 +1,4 @@
+app1:running
+app2:running
+app3:running
+
